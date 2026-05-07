@@ -1,1 +1,2 @@
 Welcome to Git in 4 days course
+We are going to learn git basics.
