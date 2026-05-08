@@ -3,3 +3,4 @@ We are going to learn git basics.
 today we learn how to add and commit
 Git has so many functions
 Git has many customs when commit
+We're tracking changes today
