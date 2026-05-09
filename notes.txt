@@ -5,3 +5,4 @@ Git has so many functions
 Git has many customs when commit
 to commit you have to excute foillowing
 We're tracking changes today
+Day 03 - This is to update in new branch
