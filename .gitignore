@@ -1,0 +1,5 @@
+#Ignore the temp.txt file
+temp.txt 
+
+#ignore java class
+*.class
