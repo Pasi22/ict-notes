@@ -1,7 +1,7 @@
 Welcome to Git in 4 days course
 We are going to learn git basics.
 today we learn how to add and commit
-Git has so many functions
+Git has so many functions (This line is updated for master)
 Git has many customs when commit
 to commit you have to excute foillowing
 We're tracking changes today
