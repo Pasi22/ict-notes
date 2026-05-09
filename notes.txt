@@ -7,3 +7,5 @@ to commit you have to excute foillowing
 We're tracking changes today
 Day 03 - This is to update in new branch
 This is the status
+This is the second feature branch commit
+This is the new update
