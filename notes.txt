@@ -9,4 +9,4 @@ Day 03 - This is to update in new branch
 This is the status
 This is the second feature branch commit
 This is the new update
-this line is for the master branch
+this line is for the master branch This is the new update from  new feature branch
