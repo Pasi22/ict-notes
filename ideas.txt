@@ -1,2 +1,3 @@
 This folder contains new ideas
 New ideas will be here
+Day 04 - We are updating ideas.txt to push to git hub
